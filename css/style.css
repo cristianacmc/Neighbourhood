@@ -1,0 +1,67 @@
+
+                    /* Your custom styles */
+
+
+#map {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+}
+
+.fa-1x {
+    font-size: 2rem;
+}
+
+.navbar-toggler.toggler-example {
+    cursor: pointer;
+}
+
+ .navbar-toggler {
+ 	float: right;
+ }
+
+ .h1 {
+ 	color: #d500f9;
+ }
+
+.dropdown-menu {
+	background-color: #212121;
+	color: #f8f9fa;
+	border: .5px solid #e0e0e0;
+}
+
+ .list-group {
+ 	float: left;
+ 	width: 100%;
+}
+.list-group-item {
+	background-color: #212121;
+}
+
+.navbar .dropdown-menu a {
+	color: #e1e4e6!important;
+    font-size: 1.2rem;
+}
+
+.list-group a:hover {
+	background-color: #28a745;
+	cursor: pointer;
+}
+
+.list-group-item.active {
+	background-color: #28a745;
+	border-color: #28a745;
+}
+
+.waves-effect a:hoover{
+	background-color: gray;
+}
+
+
+
+
+
+
+
+
+
