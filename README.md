@@ -24,5 +24,4 @@ Some resources which were used in order to make this project work:
 	 [KnockoutJS]
 	 [jQuery]
 	 [Wikipedia API]
-	 []
-	 [Twitter Bootstrap]
+	 [MDB Bootstrap]
