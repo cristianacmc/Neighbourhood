@@ -51,7 +51,7 @@ var map;
 function initMap() {  // Create an instance of map and load the map
   map = new google.maps.Map(document.getElementById('map'), {
     center: {lat: 37.089072, lng: -8.24788},
-    zoom: 9,
+    zoom: 10,
     mapTypeControl: false,  // Disable  the user to change the map type
   });
   ko.applyBindings(ViewModel);
