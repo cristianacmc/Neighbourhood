@@ -18,10 +18,10 @@ Download the project Zip File and click on index.html
 
 ### Resources
 
-Some resources which were used in order to make this project work:
+Resources used in the project project:
 
-	 [Google Maps API]
-	 [KnockoutJS]
-	 [jQuery]
-	 [Wikipedia API]
-	 [MDB Bootstrap]
+	 - Google Maps API
+	 - KnockoutJS
+	 - jQuery
+	 - Wikipedia API
+	 - MDB Bootstrap
